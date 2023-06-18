@@ -41,4 +41,4 @@ All the dependencies and required libraries are included in the file <code>requi
 Made by [Surya Choudhuri](https://github.com/Suryachoudhuri003)
 
 ## :eyes: License
-GNU © [Surya Choudhuri](https://github.com/Suryachoudhuri003/CARDI.A.I.D-CArdiaXpertBot/blob/main/LICENSE)
+MIT © [Surya Choudhuri](https://github.com/Suryachoudhuri003/CARDI.A.I.D-CArdiaXpertBot/blob/main/LICENSE)
