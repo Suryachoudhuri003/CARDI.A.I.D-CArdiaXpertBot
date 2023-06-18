@@ -305,7 +305,7 @@ def handle_message(update, context):
     context.bot.send_photo(chat_id=update.effective_chat.id, photo=open('accuracy.png', 'rb'))
 
 # Create an updater and pass your bot's API token
-updater = Updater(token="5875889034:AAFYmTXvFt9Ak3hLmzDBY0jBCWeaaJYj_ps", use_context=True)
+updater = Updater(token="<your bot token>", use_context=True)
 dispatcher = updater.dispatcher
 
 # Register the handlers
